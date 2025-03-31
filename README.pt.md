@@ -1,6 +1,6 @@
 # 🤖 Avaí Social Chatbot
 
-Chatbot para atendimento dos projetos sociais, comunitários e filantrópicos do Avaí Futebol Clube, criado com a plataforma no-code **Dify** e integrado ao WhatsApp por meio da plataforma brasileira **DatafyChats**.
+Chatbot para atendimento dos projetos sociais, comunitários e filantrópicos do Avaí Futebol Clube, criado com a plataforma low-code **Dify** e integrado ao WhatsApp por meio da plataforma brasileira **DatafyChats**.
 
 ## 📍 Sobre o Avaí FC
 
