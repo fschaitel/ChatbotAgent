@@ -1,6 +1,6 @@
 # 🤖 Avaí Social Chatbot
 
-A virtual assistant created for the social, community, and philanthropic projects of **Avaí Futebol Clube**, a Brazilian football club based in Florianópolis, SC. Built using the no-code platform **Dify** and integrated with **WhatsApp** via the Brazilian service **DatafyChats**.
+A virtual assistant created for the social, community, and philanthropic projects of **Avaí Futebol Clube**, a Brazilian football club based in Florianópolis, SC. Built using the low-code platform **Dify** and integrated with **WhatsApp** via the Brazilian service **DatafyChats**.
 
 ## 📍 About Avaí FC
 
